@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-example",
+  "version": "1.0.0",
+  "description": "Node.js example app using express for the Gleis PaaS",
+  "main": "app.js",
+  "author": "Marc",
+  "license": "MIT",
+  "engines": {
+    "node": "10.13.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/towards/nodejs-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/towards/nodejs-example/issues"
+  },
+  "homepage": "https://github.com/towards/nodejs-example#readme",
+  "keywords": [
+    "node",
+    "gleis",
+    "express"
+  ]
+}
